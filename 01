@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Meu primeiro projeto</title>
+</head>
+<body>
+    <h1>Meus Primeiros Passos com <ABBR>HTML</h1>
+    <abbr title="Linguagem de Marcação de HiperTexto">Linguagem de Marcação de HiperTexto</abbr>
+    <hr />
+
+    <h2 = id="inicio"><font="Verdana"> Índice</font></h2>
+    <p><strong><u>Tópicos:</u> </p>
+    <ul>
+        <li><a href="#História dos computadores">História dos computadores</a></li>
+        <li><a href="#Porque BUGS se chamam assim?">Porque os BUGS se chamam assim?</a></li>
+        <li><a href="#Entendendo a diferença entre listas ordenadas e não ordenadas">Entendendo a diferença entre listas ordenadas e não ordenadas</a></li>
+        <li><a href="#Links de referências">Links de referências</a></li>
+    </ul>
+
+    <h2 id="História dos computadores"><font="Verdana">História dos computadores</a></font></h2>
+    <p>O primeiro computador foi criado entre 1943 e 1946 e se chamava Eletronic Numerical Integrator and Computer — ENIAC. Pode se dividir os computadores em primeira, segunda, terceira e quarta geração.<strong>No momento, vivemos na quarta geração. </strong> </p> <br>
+       <small> <a href= "#inicio" > Voltar </a></small>
+
+    <h2 id="Porque  BUGS se chamam assim?"><font="Verdana"> Porque BUGS se chamam assim?</font></h2>
+    <p>A palavra tem origem inglesa e, em português, o significado de bug é “inseto”. Uma das teorias afirma que o termo teria sido utilizado pela primeira vez por Grace Hopper, programadora da marinha dos EUA, em 1947. <br>
+    Apesar do registro de Hopper, há também a teoria de que Thomas Edison tenha escolhido o termo primeiro para descrever uma falha mecânica, causada por um inseto que gerou problemas na leitura do seu fonógrafo. <br><i>Atualmente, a palavra “bug” é utilizada quando erros ocorrem no funcionamento de um software ou hardware. Pode resultar em comportamentos inesperados, como, por exemplo, um resultado errado ou performance indesejada. </i>
+       </p>
+       <small> <a href= "#inicio" > Voltar </a></small>
+
+    <h2>Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+    <p>As listas ordendas permitem a numeração em <strong> algarismos romanos, números ou letras</strong>. As não ordenadas geralmente se baseam em <strong>símbolos/tópicos</strong>. </p> <br>
+       <small> <a href= "#inicio" > Voltar </a></small>
+
+    <h2 id="Links de referências">Links de referências</h2>
+    </p>
+    <ul>
+        <li><a href="https://www.htmlprogressivo.net/2013/08/font-tag-Como-alterar-a-fonte-tamanho-e-cor-de-textos-de-um-website.html" target="_blank">A < font > tag e seus atributos - Como alterar a fonte, tamanho e cor de textos em um site HTML
+        </a></li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/del" target="_blank"><del> TAG DEL</del> Elemento HTML de Texto Excluído </a></li>
+    </ul>
+    <small> <a href= "#inicio" > Voltar </a></small>
+
+
+</body>
+</html>
